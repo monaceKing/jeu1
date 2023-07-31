@@ -1,0 +1,17 @@
+@media screen and (max-width: 780px) {
+    body{
+        width: auto;
+    }
+    .jeu {
+        width: 90%;
+        height: 200px;
+        padding:0 15px;
+    }
+    section{
+        width: 85%;
+        margin:20px;
+    }
+    .control{
+        width: 100%;
+    }
+}
