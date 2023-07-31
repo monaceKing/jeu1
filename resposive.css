@@ -1,0 +1,14 @@
+@media screen (max-width: 750px) {
+    .perso {
+        width: 10px;
+        height: 25px;
+    }
+    .obstacles {
+        width: 10px;
+        height: 10px;
+    }
+    .jeu {
+        width: 100%;
+        height: 200px;
+    }
+}
